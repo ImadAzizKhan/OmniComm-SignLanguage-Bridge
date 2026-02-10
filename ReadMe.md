@@ -4,7 +4,7 @@
 
 This project runs entirely in the browser via **Google Colab**. It uses **Computer Vision (MediaPipe)** and **Web Speech API** to translate between **Sign Language** and **Spoken English** in real-time, with a focus on true accessibility for both user groups.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ImadAzizKhan/OmniComm-SignLanguage-Bridge/blob/main/OmniComm.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KZ8NUVOg32uhQOw2i_VY2rVdw2W68EYH?usp=sharing)
 
 ---
 
